@@ -1,0 +1,9 @@
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\bin\Debug\Form_CharacterLimit.exe.config
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\bin\Debug\Form_CharacterLimit.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\bin\Debug\Form_CharacterLimit.pdb
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\obj\Debug\Form_CharacterLimit.csprojAssemblyReference.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\obj\Debug\Form_CharacterLimit.Form1.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\obj\Debug\Form_CharacterLimit.Properties.Resources.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\obj\Debug\Form_CharacterLimit.csproj.GenerateResource.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\obj\Debug\Form_CharacterLimit.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_CharacterLimit\obj\Debug\Form_CharacterLimit.pdb

@@ -1,0 +1,10 @@
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\bin\Debug\Form_TransitionalForm.exe.config
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\bin\Debug\Form_TransitionalForm.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\bin\Debug\Form_TransitionalForm.pdb
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.csprojAssemblyReference.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.Form1.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.Form2.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.Properties.Resources.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.csproj.GenerateResource.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TransitionalForm\obj\Debug\Form_TransitionalForm.pdb

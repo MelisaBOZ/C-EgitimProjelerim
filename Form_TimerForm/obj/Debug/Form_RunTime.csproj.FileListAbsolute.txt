@@ -1,0 +1,17 @@
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\bin\Debug\Form_TimerForm.exe.config
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\bin\Debug\Form_TimerForm.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\bin\Debug\Form_TimerForm.pdb
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.Form1.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.Properties.Resources.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_RunTime.csproj.GenerateResource.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.pdb
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\bin\Debug\Form_TimerForm.exe.config
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\bin\Debug\Form_TimerForm.exe
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\bin\Debug\Form_TimerForm.pdb
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.Form1.resources
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.Properties.Resources.resources
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_RunTime.csproj.GenerateResource.cache
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_RunTime.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.exe
+C:\Users\M\Desktop\GameDeveloper_Education_Studies\Form_TimerForm\obj\Debug\Form_TimerForm.pdb

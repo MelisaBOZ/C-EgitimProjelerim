@@ -1,0 +1,6 @@
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Console_FunctionDefiniton\bin\Debug\Console_FunctionDefiniton.exe.config
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Console_FunctionDefiniton\bin\Debug\Console_FunctionDefiniton.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Console_FunctionDefiniton\bin\Debug\Console_FunctionDefiniton.pdb
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Console_FunctionDefiniton\obj\Debug\Console_FunctionDefiniton.csprojAssemblyReference.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Console_FunctionDefiniton\obj\Debug\Console_FunctionDefiniton.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Console_FunctionDefiniton\obj\Debug\Console_FunctionDefiniton.pdb

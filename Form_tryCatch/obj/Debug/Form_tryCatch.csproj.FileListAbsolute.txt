@@ -1,0 +1,8 @@
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\bin\Debug\Form_tryCatch.exe.config
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\bin\Debug\Form_tryCatch.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\bin\Debug\Form_tryCatch.pdb
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\obj\Debug\Form_tryCatch.Form1.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\obj\Debug\Form_tryCatch.Properties.Resources.resources
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\obj\Debug\Form_tryCatch.csproj.GenerateResource.cache
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\obj\Debug\Form_tryCatch.exe
+C:\Users\WissenAkademie\Desktop\GameDeveloper_Education_Studies\Form_tryCatch\obj\Debug\Form_tryCatch.pdb
